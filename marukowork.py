@@ -1,0 +1,1 @@
+printh(Hollo maruko)
